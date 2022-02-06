@@ -1,0 +1,15 @@
+E:\tutorial\Namespaces\obj\Debug\net6.0\Namespaces.csproj.AssemblyReference.cache
+E:\tutorial\Namespaces\obj\Debug\net6.0\Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\tutorial\Namespaces\obj\Debug\net6.0\Namespaces.AssemblyInfoInputs.cache
+E:\tutorial\Namespaces\obj\Debug\net6.0\Namespaces.AssemblyInfo.cs
+E:\tutorial\Namespaces\obj\Debug\net6.0\Namespaces.csproj.CoreCompileInputs.cache
+E:\tutorial\Namespaces\bin\Debug\net6.0\Namespaces.exe
+E:\tutorial\Namespaces\bin\Debug\net6.0\Namespaces.deps.json
+E:\tutorial\Namespaces\bin\Debug\net6.0\Namespaces.runtimeconfig.json
+E:\tutorial\Namespaces\bin\Debug\net6.0\Namespaces.dll
+E:\tutorial\Namespaces\bin\Debug\net6.0\ref\Namespaces.dll
+E:\tutorial\Namespaces\bin\Debug\net6.0\Namespaces.pdb
+E:\tutorial\Namespaces\obj\Debug\net6.0\Namespaces.dll
+E:\tutorial\Namespaces\obj\Debug\net6.0\ref\Namespaces.dll
+E:\tutorial\Namespaces\obj\Debug\net6.0\Namespaces.pdb
+E:\tutorial\Namespaces\obj\Debug\net6.0\Namespaces.genruntimeconfig.cache
